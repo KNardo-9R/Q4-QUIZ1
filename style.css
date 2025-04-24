@@ -1,0 +1,31 @@
+*{
+
+}
+
+body{
+	justify-content: center;
+	text-align:center;
+	background:url(bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+img{
+	width: 10%;
+	height: 10%;
+}
+
+.container1{
+	background-color: #B2EC5D;
+	padding: 20px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 15px;
+	color: #mediumpurple;
+}
+
+.footer{ 
+	margin-top: 40px;
+}
